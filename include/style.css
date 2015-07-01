@@ -1,0 +1,19 @@
+
+
+/*******************
+BODY STYLING
+*******************/
+
+
+
+p.post{
+	border-style: solid;
+	border-width: medium;
+	border-color: #0099cc;
+}
+
+p.comment{
+	border-style: solid;
+	border-width: 1px;
+	border-color: #0099cc;
+}
